@@ -23,10 +23,10 @@ global.packname = 'ShadowUtra'
 global.botname = '(✦◠‿◠)ShadowBot-MD'
 global.wm = '⏤͟͟͞͞⋆⬪࣪ꥈ☕★ ׄ ꒱ Shadow ୭'
 global.author = 'By 𝘧𝘦𝘥𝘦𝘭𝘢𝘯𝘠𝘛'
-global.dev = '© 𝖯᥆𝗐ᥱ𝗋ᥱძ ᑲᥡ 𝖲ᥙᥒ𝖿ᥣᥲ𝗋ᥱ  ☂︎  𝖳ᥱᥲ𝗆'
+global.dev = '© 𝖯᥆𝗐ᥱ𝗋ᥱძ ᑲᥡ ꘓꘓ ໒💙 𝘐𝘕𝘍𝘐𝘕𝘐𝘛𝘠 彡 ✑ 𝘊𝘏𝘈𝘕𝘕𝘌𝘓'
 global.errorm = 'Error: ${error.message}'
-global.nombrebot = 'Shadow Bot - MD'
-global.textbot = `「 SHADOW BOT MD 」`
+global.nombrebot = '𝚂𝙷𝙰𝙳𝙾𝚆_𝙱𝙾𝚃-𝙼𝙳'
+global.textbot = `💙𝐒𝐇𝐀𝐃𝐎𝐖_𝐁𝐎𝐓-𝐌𝐃💙`
 global.vs = '3.0.0'
 
 global.catalogo = fs.readFileSync('./media/catalogo.jpg')
