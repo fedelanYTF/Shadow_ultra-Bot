@@ -42,6 +42,6 @@ let handler = async (m, { conn, usedPrefix, text, args, command }) => {
 
 handler.help = ['owner', 'creador','contacto'];
 handler.tags = ['info'];
-handler.command = /^(owner|creator|creador|dueño)$/i;
+handler.command = /^(owner|creator|creador|dueño|contacto)$/i;
 
 export default handler;
