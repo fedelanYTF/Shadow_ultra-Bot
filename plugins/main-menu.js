@@ -64,7 +64,7 @@ ${readMore}
 ര ׄ 🫖˚ ${usedPrefix}precios
 
 𓂂𓏸  𐅹੭੭   *\`𝖮𝗇-𝖮ẜẜ\`*   🌿ᩚ꤬ᰨᰍ
-ര ׄ 🌿˚ enable *opción*
+ര ׄ 🌿˚ ${usedPrefix}enable *opción*
 ര ׄ 🌿˚ ${usedPrefix}disable *opción*
 ര ׄ 🌿˚ ${usedPrefix}on *opción*
 ര ׄ 🌿˚ ${usedPrefix}off *opción*
