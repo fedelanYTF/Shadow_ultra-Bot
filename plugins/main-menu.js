@@ -311,7 +311,7 @@ ${readMore}
 `.trim()
 
         await conn.sendMessage(m.chat, {
-            foto: { url: fotoUrl }, // foto fijo
+            video: { url: videoUrl }, // video fijo
             caption: menu,
             contextInfo: {
                 mentionedJid: [m.sender],
