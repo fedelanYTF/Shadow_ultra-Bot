@@ -32,15 +32,15 @@ let who = m.mentionedJid && m.mentionedJid[0] ? m.mentionedJid[0] : m.fromMe ? c
 //let pp = await conn.profilePictureUrl(who, 'image').catch(_ => 'https://telegra.ph/file/327f6ad853cb4f405aa80.jpg')
 
 //CREADOR Y OTROS
-global.creador = 'Wa.me/51927238856'
+global.creador = 'Wa.me/5491156278758'
 global.botreal = `${(conn.user.jid == global.conn.user.jid ? 'Oficial' : 'Sub-Bot')}`
 global.ofcbot = `${conn.user.jid.split('@')[0]}`
-global.asistencia = 'Wa.me/51927238856'
-global.namech = '𝑺𝒉𝒂𝒅𝒐𝒘 𝑩𝒐𝒕 - 𝑴𝑫'
-global.namechannel2 = 'ꘓꘓ   ໒☀️ؑ   𝖲ᥙᥒ𝖿͟ᥣ͟ᥲ𝗋ᥱࣲ  𝖳ᥱᥲ𝗆 彡'
-global.namegrupo = 'Group Shadow Oficial'
-global.namecomu = 'Sunflare Community'
-global.namecomu2 = 'Nova Spark Community'
+global.asistencia = 'Wa.me/5491156178758'
+global.namech = '𝐒𝐇𝐀𝐃𝐎𝐖_𝐁𝐎𝐓-𝐌𝐃'
+global.namechannel2 = 'ꘓꘓ ໒💙   𝘐𝘕𝘍𝘐𝘕𝘐𝘛𝘠 彡 ✑  𝘊𝘏𝘈𝘕𝘕𝘌𝘓'
+global.namegrupo = '𝚂𝙷𝙰𝙳𝙾𝚆_𝙱𝙾𝚃-𝙼𝙳'
+global.namecomu = '𝚂𝙷𝙰𝙳𝙾𝚆_𝙱𝙾𝚃-𝙼𝙳 Community'
+global.namecomu2 = '𝚂𝙷𝙰𝙳𝙾𝚆_𝙱𝙾𝚃 Community'
 
 //REACCIONES 
 global.rwait = '🕒'
@@ -129,18 +129,18 @@ global.readMore = more.repeat(850)
 
 global.authsticker = `\n\n🍪 mᥲძᥱ ᑲᥡ:\n↳協 ֪ Տһᥲ͡ძ͜᥆፝֟ա  ⚡︎  Uᥣ𝗍rᥲ ׄ🍒˚ .\n\n👤 rᥱ𝗊ᥙіrᥱძ ᑲᥡ\n↳@${conn.getName(m.sender)}`;
 
-global.packsticker = `ꘓꘓ  ໒☀️ؑ  𝖲ᥙᥒ𝖿͟ᥣ͟ᥲ𝗋ᥱࣲ  𝖳ᥱᥲ𝗆 彡\n↳@team_sunflare\n\n☘️ іᥒ𝖿᥆rmᥲ𝗍і᥆ᥒ\n↳Wa.me/51927238856`
+global.packsticker = `ꘓꘓ  ໒☀️ؑ  𝖲ᥙᥒ𝖿͟ᥣ͟ᥲ𝗋ᥱࣲ  𝖳ᥱᥲ𝗆 彡\n↳@team_sunflare\n\n☘️ іᥒ𝖿᥆rmᥲ𝗍і᥆ᥒ\n↳Wa.me/5491156178758`
 
 //FAKES
 global.fkontak = { key: { participants:"0@s.whatsapp.net", "remoteJid": "status@broadcast", "fromMe": false, "id": "Halo" }, "message": { "contactMessage": { "vcard": `BEGIN:VCARD\nVERSION:3.0\nN:Sy;Bot;;;\nFN:y\nitem1.TEL;waid=${m.sender.split('@')[0]}:${m.sender.split('@')[0]}\nitem1.X-ABLabel:Ponsel\nEND:VCARD` }}, "participant": "0@s.whatsapp.net" }
 
-global.fake = { contextInfo: { isForwarded: true, forwardedNewsletterMessageInfo: { newsletterJid: '120363318267632676@newsletter', newsletterName: "˚₊·͟͟͟͟͟͟͞͞͞͞͞͞𝑺𝒖𝒏𝒇𝒍𝒂𝒓𝒆 - 𝑻𝒆𝒂𝒎 ೃ࿔₊•", serverMessageId: -1 }
+global.fake = { contextInfo: { isForwarded: true, forwardedNewsletterMessageInfo: { newsletterJid: '120363400708262483@newsletter', newsletterName: "˚₊·͟͟͟͟͟͟͞͞͞͞͞͞𝑺𝒖𝒏𝒇𝒍𝒂𝒓𝒆 - 𝑻𝒆𝒂𝒎 ೃ࿔₊•", serverMessageId: -1 }
 }}, { quoted: m }
 
 //ID CANALES
-global.idchannel = '120363357231409846@newsletter'
-global.canalIdM = ["120363357231409846@newsletter", "120363357231409846@newsletter", "120363357231409846@newsletter"]
-global.canalNombreM = ["⏤͟͟͞͞𝖲𝗁ᥲძ𝗈ա  ⚡︎  𝖴𝗅𝗍𝗋𝖺۵࿐", "𝑺𝒉𝒂𝒅𝒐𝒘 𝑼𝒍𝒕𝒓𝒂 - 𝑴𝑫", "⏤͟͟͞͞☆ 𝑺𝒉𝒂𝒅𝒐𝒘 - 𝑻𝒆𝒔𝒕"]
+global.idchannel = '120363400708262483@newsletter'
+global.canalIdM = ["120363400708262483@newsletter", "120363400708262483@newsletter", "120363400708262483@newsletter"]
+global.canalNombreM = ["⏤͟͟͞͞𝐒𝐇𝐀𝐃𝐎𝐖_𝐁𝐎𝐓-𝐌𝐃۵࿐", "𝐒𝐇𝐀𝐃𝐎𝐖_𝐁𝐎𝐓-𝐌𝐃", "⏤͟͟͞͞☆𝐒𝐇𝐀𝐃𝐎𝐖_𝐁𝐎𝐓-𝐌𝐃"]
 global.channelRD = await getRandomChannel()
 // global.estilo = { key: {  fromMe: false, participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "3876577197-120363302285079181@g.us" } : {}) }, message: { orderMessage: { itemCount : -999999, status: 1, surface : 1, message: `${packname}`, orderTitle: 'Bang', thumbnail: icons, sellerJid: '0@s.whatsapp.net'}}}
 
